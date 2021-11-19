@@ -1,0 +1,25 @@
+.first{
+    background-color: #0b8ee4;
+}
+
+.second{
+    background-color: rgb(0,221,71);
+}
+
+.third{
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fourth{
+    position: absolute;
+    right: 0px;
+}
+
+body{
+    background-image: url(../images/A&Ds\ Logo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
